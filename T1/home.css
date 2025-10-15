@@ -461,6 +461,7 @@ body{
             p{
                 text-indent: 1em;
                 padding: 0.5rem;
+                height: 10rem;
                 align-items: center;
                 font-size: 2vw;
             }
@@ -471,7 +472,8 @@ body{
         .mgcon3, .textcon{
             width: 100%;
             display: block;
-            height: 40vw;
+            height: 30vw;
         }
     }
+
 
